@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">My Application</string>
+
+    <string name="log_tip_click_disable">点击被禁用</string>
+
+    <string name="message_permission_rationale">请您授予以下权限以继续运行该程序:\n\n%1$s</string>
+    <string name="message_permission_always_failed">应用允许过程中需要如下权限，请在设置中给予我们权限许可:\n\n%1$s</string>
+    <string name="message_permission_float_window">请打开锁屏显示和显示悬浮窗的权限</string>
+
 </resources>

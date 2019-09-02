@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <!--主题颜色方案 AppTheme-->
+    <color name="colorPrimary">#FF9052</color>
+    <color name="colorPrimaryDark">#CCFF9052</color>
+    <color name="colorAccent">#EC6060</color>
+    <!--主题颜色方案 AppThemeBlue -->
+    <color name="colorBluePrimary">#444a63</color>
+    <color name="colorBluePrimaryDark">#CC444a63</color>
+    <color name="colorBlueAccent">#EC6060</color>
+
+    <color name="red_f25f5f">#F25F5F</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="color_f0">#f0f0f0</color>
+    <color name="gray_light">#EFEFF4</color>
+    <color name="gray_cccccc">#cccccc</color>
+    <color name="gray_d0d0d0">#d0d0d0</color>
+    <color name="gray_a2a2a2">#a2a2a2</color>
+    <color name="gray_8f8f8f">#8F8F8F</color>
+    <color name="gray_707070">#707070</color>
+    <color name="gray_555555">#555555</color>
+    <color name="black_262626">#262626</color>
+    <color name="black">#FF000000</color>
+
+    <color name="blue_037bff">#037bff</color>
+
+    <!-- 线条、视图边框线相关 -->
+    <color name="line">#AAD9D9D9</color>
+
+    <!-- 提示色 -->
+    <color name="hint_color">#555555</color>
+
 </resources>
